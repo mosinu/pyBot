@@ -12,3 +12,6 @@ follow people who follow me if they have a X number of users
 
 # gamebot
 simple game bot using pyautogi and pil to look for a pixel you feed it and click it
+
+# simple-bot
+a simple bot that sends a random phrase to an IM. I did not put in the ability to find the IM window, you have to do that yourself...maybe I will uptdate it to do that later. My wife hates this bot...
