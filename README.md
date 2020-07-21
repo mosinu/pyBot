@@ -10,3 +10,5 @@ playing with twitter api to like posts
 # twitter-follow
 follow people who follow me if they have a X number of users
 
+# gamebot
+simple game bot using pyautogi and pil to look for a pixel you feed it and click it
