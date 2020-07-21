@@ -1,4 +1,4 @@
-# Python script to hide when I am idle.
+# Python script to hide when I am idle and learn pyautogui
 import pyautogui as pag
 import time
 import threading
