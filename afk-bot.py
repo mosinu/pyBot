@@ -6,8 +6,8 @@ from time import sleep
 from random import randint
 
 x = 50   #how many times to run
-startx = 703
-starty = 731
+startx = 703 #starting spot for x
+starty = 731 #start spot for y
 
 #print current position
 print(pag.position())
