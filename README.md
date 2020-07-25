@@ -4,6 +4,9 @@ a few little bots I wrote in python. Some of them work, some of them don't. None
 # afk-bot
 playing with pyautogui. wrote this to keep my IM from going idle by moving the mouse and typing on a note pad. Not really useful, just goofing with the api
 
+# afk-bot2
+same as the other but doesn't do the clicking or writing, just mouse movements and does a little more random movements
+
 # twitterbot
 playing with twitter api to like posts
 
